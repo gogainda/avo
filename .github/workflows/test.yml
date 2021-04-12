@@ -15,6 +15,7 @@ jobs:
         ruby:
           - '2.6'
           - '2.7'
+          - 'truffleruby-head'
         rails:
           - '6.0'
           - '6.1'
